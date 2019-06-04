@@ -5,7 +5,7 @@ nav_order: 1
 ---
 ![](docs/assets/index-47bdbe20.png)  
 ## DigitalPersona Web Enrollment Sample  
-Version 3.1.1  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**[DRAFT WS05]**
+Version 3.1.1  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**[DRAFT WS06]**
 
 [Download PDF](docs\DP Access Management API.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Sample  Repo](https://github.com/LenHodgeman/web-enrollment-sample){: .btn }&nbsp; &nbsp; &nbsp; &nbsp; [View Documentation Repo](https://github.com/LenHodgeman/DP-Access-Management-API){: .btn }  
 
@@ -24,7 +24,7 @@ Although the sample program will function when the associated DigitalPersona Web
 Note: By default, most of the user name fields in the sample application are prepopulated with the current (logged on) Windows User name.
 ## Enrollment tab
 
-![](assets/index-b4e8a83f.png)
+![](docs/assets/web-api-demo1.png)
 
 ### Element descriptions
 
