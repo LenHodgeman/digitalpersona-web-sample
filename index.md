@@ -3,9 +3,9 @@ layout: default
 title: Overview
 nav_order: 1
 ---
-##### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Web Application Sample / Overview   &nbsp;**[DRAFT WS08]**
+##### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Web Application Sample / Overview   &nbsp;**[DRAFT WS09]**
 
-![](docs/assets/HID-DPAM-devices.png)  
+![](docs/assets/HID-DPAM-web-sample.png)  
 
 ## DigitalPersona Web Application Sample  
 
