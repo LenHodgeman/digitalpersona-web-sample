@@ -69,7 +69,7 @@ Note: By default, most of the user name fields in the sample application are pre
 
 ### Enroll User credential  
 
-**Purpose: Provides a demonstration of enrolling the various types of DigitalPersona credentials.  
+**Purpose**: Provides a demonstration of enrolling the various types of  DigitalPersona credentials.  
 **Actions**: Click *Enroll* and follow the onscreen instructions for enrolling each specific credential. For additional detailed instructions on enrolling credentials, see your DigitalPersona Client Guide.  
 **Results**: If successful, displays *OK*.  
 
@@ -82,8 +82,8 @@ Note: By default, most of the user name fields in the sample application are pre
 ### Read attribute  
 
 **Purpose**: Reads the value of a defined attribute for a specified user.  
-**Actions**: Enter an attribute name and User name. Then click Read.
-Results: If successful, displays the value of the attribute.  
+**Actions**: Enter an attribute name and User name. Then click *Read*.  
+**Results**: If successful, displays the value of the attribute.  
 
 ### Write attribute  
 
